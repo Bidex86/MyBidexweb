@@ -8,7 +8,7 @@ import "../Style/Profile.css";
 function Profile() {
   return (
     <section className="main-container">
-     <Navigation />
+    <Navigation />
     <SearchBar />
       <div className="container">Bidex Repository</div>
 
