@@ -7,7 +7,7 @@ import Repo from "./component/Repo";
 import Navigation from "./component/Navigation"
 import Fallback from "./component/Fallback";
 import Home from "./component/Home";
-;// import Result from "./component/Result";
+// import Result from "./component/Result";
 import "./index.css";
 
 function Index() {
