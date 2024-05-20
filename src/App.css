@@ -1,0 +1,17 @@
+.home {
+  text-align: left;
+  font: bolder;
+  font-size: 300%;
+  font-family: "Times New Roman", Times, serif;
+  font-weight: bolder;
+  color: #4caf50;
+  font-style: normal;
+  margin: 20px;
+}
+
+.home-page {
+  font-size: 20px;
+  color: rgb(12, 12, 12);
+  text-decoration: color-mix(in srgb, red 5%, blue 5%);
+  margin: 20px;
+}

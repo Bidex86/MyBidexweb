@@ -1,0 +1,49 @@
+.Repos {
+    max-width: 300px;
+    margin: 0 auto;
+    padding: 50px 20px;
+    width: 100%;
+    justify-items: left;
+    color: #4caf50;
+  }
+  
+  .Repo1 {
+    background-color: #4caf50;
+    border: 2px solid #ccc;
+    padding: 20px;
+    border-radius: 10px;
+    max-width: 250pxx;
+    color: #ffff;
+    font-size: 150%;
+  }
+  
+  .paginate {
+    margin: 20px 0;
+    text-align: center;
+    margin: 1px;
+  }
+  
+  .prev {
+    background-color: #4caf50;
+    color: #ffff;
+    text-align: center;
+    max-width: 150px;
+    border: 10px solid;
+    border-radius: 10px;
+    text-decoration: solid;
+    padding: 10px;
+    font-size: 100%;
+  }
+  
+  .next {
+    background-color: #4caf50;
+    color: #ffff;
+    text-align: center;
+    max-width: 150px;
+    border: 10px solid;
+    border-radius: 10px;
+    text-decoration: solid;
+    padding: 10px;
+    font-size: 100%;
+  }
+  

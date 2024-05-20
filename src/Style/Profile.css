@@ -1,0 +1,45 @@
+.container {
+    text-align: left;
+    font: bolder;
+    font-size: 300%;
+    font-family: "Times New Roman", Times, serif;
+    font-weight: bolder;
+    color: #4caf50;
+    font-style: normal;
+    margin: 20px;
+  }
+  
+  .Repo {
+    background-color: #fff;
+    border: 2px solid #ccc;
+    padding: 20px;
+    border-radius: 10px;
+    margin: 40px;
+    max-width: 100px;
+    color: #ffff;
+    font-size: 150%;
+  
+    border-color: crimson;
+  }
+  
+  .card-name {
+    font-size: 30px;
+    color: rgb(12, 12, 12);
+    text-decoration: color-mix(in srgb, red 5%, blue 5%);
+    margin: 20px;
+  }
+  
+  .main-container {
+    margin: 2px;
+    background-color: auto;
+    height: 500px;
+  }
+  
+  .navigate {
+    background-color: #141514;
+    color: #fff;
+    max-width: 150px;
+    padding: 15px;
+    margin: 2px;
+  }
+  
