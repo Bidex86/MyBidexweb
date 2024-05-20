@@ -1,5 +1,6 @@
 import React, { useEffect, useState } from "react";
 import { NavLink } from "react-router-dom";
+import Navigation from "./Navigation";
 import SearchBar from "./SearchBar";
 import "../Style/Repo.css";
 
@@ -52,6 +53,7 @@ function Repo() {
 
   return (
     <section className="main-container">
+     <Navigation />
       <SearchBar />
       <section className="Repos">
         {loading ? (
