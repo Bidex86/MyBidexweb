@@ -1,13 +1,15 @@
 import { NavLink } from "react-router-dom";
 import React from "react";
 import SearchBar from "./SearchBar";
+import Navigation from "./Navigation";
 import "../Style/Profile.css";
 // import { ErrorBoundary } from "react-error-boundary";
 
 function Profile() {
   return (
     <section className="main-container">
-      <SearchBar />
+     <Navigation />
+    <SearchBar />
       <div className="container">Bidex Repository</div>
 
       <div className="card-name">This is my Repository</div>
